@@ -1,0 +1,15 @@
+{
+  "title": "Hour of Code",
+  "summary": "In this lesson, we'll learn the very basics of programming by exploring Core.org's Hour of Code.",
+  "image_url": "https://raw.github.com/CoderDojoSF/hour-of-code/master/cover.jpg",
+  "author_github_username": "jensechu",
+  "events": [
+    {
+      "location": "GitHub, 88 Colin P. Kelly Junior St., San Francisco, CA",
+      "date": "Sat Mar 15 2014 10:00:00 GMT-0700 (PDT)",
+      "length_in_hours": null,
+      "teacher_github_username": "jensechu"
+    }
+  ],
+  "length": "2"
+}
